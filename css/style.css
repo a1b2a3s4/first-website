@@ -477,7 +477,7 @@ ul {
         left: 50%;
         transform: translateX(-50%);
         border-radius: 5px;
-
+        margin-bottom:20px;
     }
 
     .all-services .service h3 {
